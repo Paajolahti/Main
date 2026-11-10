@@ -10,3 +10,7 @@ Weather app: https://github.com/Paajolahti/JavaScriptWeatherApp
 Todo: https://github.com/Paajolahti/ToDoApp
 
 Calculator: https://github.com/Paajolahti/JavaScript-Calculator
+
+
+ohj1 - harjoitustyö: https://gitlab.jyu.fi/hasemajo/ohj1ht
+ohj2 - harjoitustyö: https://gitlab.jyu.fi/hasemajo/ohj2
